@@ -218,7 +218,7 @@ html {
 }
 
 .page-background {
-  background: url(../assets/sfondo-texture-ftc.png);
+  background: url(https://cdn.jsdelivr.net/gh/daveee00/scripts-for-the-cause-test/assets/sfondo-texture-ftc-smallest.png);
   background-size: cover;
 }
 
